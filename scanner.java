@@ -10,7 +10,7 @@ class scanner
 
 		System.out.println 
 
-("Enter 1st number = ");
+                ("Enter 1st number = ");
 		first=sc.nextInt();
 		System.out.println("......................");
 
